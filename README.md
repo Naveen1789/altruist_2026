@@ -5,5 +5,5 @@ A simple Python Hello World project.
 ## Run
 
 ```bash
-python3 main.py
+python3 helloWorld.py
 ```
